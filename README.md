@@ -11,4 +11,8 @@ I found the article about [Codingapple](https://codingapple.com/) to be quite in
 
 Moreover, the emphasis on encouraging students to not only follow along with projects but also explore additional ones independently is a fantastic approach to fostering deeper understanding and practical skills. 
 
+
 However the only drawback, as mentioned in the article, is that the content is primarily in Korean, which may limit accessibility for non-Korean speakers. Nevertheless, for those who are looking for a comprehensive and hands-on approach to learning coding languages and frameworks, Codingapple appears to be a noteworthy resource worth exploring.
+
+## Comment by Noah Zhou: 
+I do agree that this website does seem to teach many different frameworks and languages, but it seems you must know Korean to be able to effectively learn from this site.
