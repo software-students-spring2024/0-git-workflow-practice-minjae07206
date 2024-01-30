@@ -16,3 +16,6 @@ However the only drawback, as mentioned in the article, is that the content is p
 
 ## Comment by Noah Zhou: 
 I do agree that this website does seem to teach many different frameworks and languages, but it seems you must know Korean to be able to effectively learn from this site.
+
+## Comment by Joseph Lee: 
+My initial impressions of codingapple is that it is a very well put together and well organized website that seems to have a well defined curriculum for courses that would interest new and learning developers. The curriculum focuses on practical application instead of longer lectures and each course has great reviews. Codingapple seems like a good resource for anyone interested in development who speaks the Korean language and has extra money to pay for the courses.
